@@ -40,7 +40,12 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 O sistema é executado pelo terminal e conduz o usuário durante o processo de criação do pedido.
 
-Em breve serão adicionadas imagens demonstrando o funcionamento do sistema.
+### Montagem do pedido
+<img width="1020" height="650" alt="pizzaria-escolha-pizza" src="https://github.com/user-attachments/assets/74c95b03-02b4-43e4-9e89-d2c6d9da7971" />
+
+### Pedido finalizado
+<img width="1020" height="655" alt="pizzaria-pedido-finalizado" src="https://github.com/user-attachments/assets/53112217-f161-4593-8318-08251c91580e" />
+
 
 ## 🚀 Objetivo do projeto
 
